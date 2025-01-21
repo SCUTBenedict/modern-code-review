@@ -1,3 +1,4 @@
+# revise the logic condition 
 def is_win(game):
     win = False
     # Check rows
