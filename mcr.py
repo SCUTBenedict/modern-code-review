@@ -51,5 +51,7 @@ def main():
         for row in game:
             print(" ".join(row))
 
+# This is MCR exercise
+
 if __name__ == "__main__":
     main()
